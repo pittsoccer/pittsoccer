@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pittsoccer&label=Profile%20views&color=0e75b6&style=flat" alt="pittsoccer" /> </p>
 
+<h3 align="center">I'm all about coding and building PCs.</h3>
+
 - 🌍 I’m based in **Huntsville, Al**
 
 - 🌱 I’m currently learning **HTML, CSS, & Javascript**
