@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bryce Pittman</h1>
 <h3 align="center">IT Enthusiast, The University of North Alabama</h3>
+<h3 align="center">I'm all about coding and building PCs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pittsoccer&label=Profile%20views&color=0e75b6&style=flat" alt="pittsoccer" /> </p>
-
-<h3 align="center">I'm all about coding and building PCs.</h3>
 
 - 🌍 I’m based in **Huntsville, Al**
 
