@@ -65,7 +65,7 @@ src="https://img.shields.io/github/followers/pittsoccer?logo=github&style=for-th
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" title="Raspberry Pi"/></a>
 <!-- Wondershare Filmora -->
-<a href="https://www.filmora.wondershare.com/" target="_blank" rel="noreferrer">
+<a href="https://filmora.wondershare.com/" target="_blank" rel="noreferrer">
 <img src="https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-square.svg" width="36" height="36" alt="Wondershare Filmora" title="Wondershare Filmora"/></a>
 <!-- Wallpaper Engine-->
 <a href="https://www.wallpaperengine.io/en" target="_blank" rel="noreferrer">
