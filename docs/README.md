@@ -70,7 +70,6 @@ src="https://img.shields.io/github/followers/pittsoccer?logo=github&style=for-th
 <!-- Wallpaper Engine-->
 <a href="https://www.wallpaperengine.io/en" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/color/512/wallpaper-engine.png" width="36" height="36" alt="Wallpaper Engine" title="Wallpaper Engine"/></a>
-</p>
 <!-- Microsoft Windows -->
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" width="36" height="36" alt="Microsoft Windows" title="Microsoft Windows"/></a>
