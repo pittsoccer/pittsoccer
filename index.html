@@ -31,30 +31,30 @@
           <li class="nav-item">
             <a class="nav-link" href="#">Link</a>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-          </li>
+          </li> -->
         </ul>
       </div>
     </div>
   </nav>
 
-	<div class="containerifluid">
+	<div class="container-fluid">
 
 <!-- 1st row: dev card &  blog -->
 <div class="row mt-4 border border-1">
 	<div class="col-md-4 ">
 		<!-- from w3c bs5 cards -->
-		<div class="card" style="width:400px">
-  		<img class="card-img-top" src="https://picsum.photos/seed/picsum/150" alt="Card image">
+		<div class="card" style="width:500px">
+  		<img class="card-img-top" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTr2rGL0Rm3hgGPEMmOlot9tvB81gJEcQlS7K1W7qB-EZioXFps" alt="Card image">
   		<div class="card-body">
-    		<h4 class="card-title">John Doe</h4>
-    		<p class="card-text">Some example text.</p>
+    		<h4 class="card-title">Bryce Pittman</h4>
+    		<p class="card-text">IT Enthusiast, The University of North Alabama </p>
     	</div>
 			<div class="card-footer">
 				<a href="#" class="card-link">Card link</a>
     		<a href="#" class="card-link">Another link</a>
-				<a href="#" class="btn btn-primary">See Profile</a>
+				<a href="#" class="btn btn-primary fw-bold">See Profile</a>
   		</div>
 		</div>
 
@@ -76,14 +76,63 @@
 </div>
 
 	<!-- 2nd row: projects & resources -->
- 	<div class="row mt-4 border border-1">
-		<div class="col-md-4 ">dev projects goes here</div>
-		<div class="col-md-8 ">dev resources goes here</div>
-	</div>
+ 	<div class="row mt-4">
+  <!-- projects -->
+    <div class="col-md-8">
+      <h2 class="text-primary header-bg"><i class="bi bi-kanban"></i> Projects</h2>
+      <div class="d-flex flex-row gap-3 flex-nowrap overflow-auto">
+        <!-- Project #1: Game Time -->
+        <div class="card shadow-sm text-center" style="min-width: 180px; aspect-ratio: 1 / 1;">
+          <div class="card-body d-flex flex-column justify-content-center align-items-center">
+            <i class="bi bi-joystick display-4 mb-2 text-primary"></i>
+            <h5 class="card-title">Game Time!</h5>
+            <p class="card-text small">An example game</p>
+            <div class="card-footer">
+              <a href="https://pittsoccer.github.io/GameTime/" target="_blank" class="btn btn-primary"><i class="bi bi-joystick"> Play Game!</i></a>
+              <br>
+              <a href="https://github.com/pittsoccer/GameTime" target="_blank" class="btn btn-secondary">&lt;<i class="bi bi-github"> source code&gt;</i></a>
+            </div>
+          </div>
+        </div>
+        <!-- Project #2: _____ -->
+        <div class="card shadow-sm text-center" style="min-width: 180px; aspect-ratio: 1 / 1;">
+          <div class="card-body d-flex flex-column justify-content-center align-items-center">
+            <i class="bi bi-lightbulb display-4 mb-2 text-primary"></i>
+            <h5 class="card-title">Project 2</h5>
+            <p class="card-text small">Description</p>
+          </div>
+        </div>
+        <!-- Project #3: _____ -->
+        <div class="card shadow-sm text-center" style="min-width: 180px; aspect-ratio: 1 / 1;">
+          <div class="card-body d-flex flex-column justify-content-center align-items-center">
+            <i class="bi bi-lightbulb display-4 mb-2 text-primary"></i>
+            <h5 class="card-title">Project 3</h5>
+            <p class="card-text small">Description</p>
+          </div>
+        </div>
+        </div>
+    </div>
+    <!-- resources -->
+    <div class="col-md-4">
+      <h2 class="text-primary header-bg"><i class="bi bi-link-45deg"></i> Resources</h2>
+      <ul class="list-group">
+        <li class="list-group-item"><a href="#"><i class="bi bi-link-45deg"></i> Resource Link 1</a></li>
+        <li class="list-group-item"><a href="#"><i class="bi bi-link-45deg"></i> Resource Link 2</a></li>
+        <li class="list-group-item"><a href="#"><i class="bi bi-link-45deg"></i> Resource Link 3</a></li>
+      </ul>
+    </div>
+  </div>
 </div> <!-- closes big container -->
 
 	<!-- footer -->
 	<footer class="bg-body-tertiary text-center text-lg-start" style="position:fixed; bottom: 0px">
+    <div class="text-center p-3" style="background-color: rgba(0,0,0,0.05);">
+      © 2025 Copyright
+      <a class="text-body" href="https://mdbootstrap.com/">MDBootstrap.com</a> |
+      <a class="text-body" href="https://pittsoccer.github.io/pittsoccer/" target="_blank">bp|Dev</a> |
+      <a class ="text-body" target="_blank" href="https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fpittsoccer.github.io%2Fpittsoccer%2F">check the validity of this page</a> |
+      <a class ="text-body" target="_blank" href="https://wave.webaim.org/report#/https://pittsoccer.github.io/pittsoccer/">check the accessibility of this page</a>
+    </div>
 	</footer>
 
 
@@ -92,24 +141,3 @@
   <script src="scripts/script.js"></script>
 </body> 
 </html>
-
-
-
-<!-- <div class="card" style="width:400px">
-  <img class="card-img-top" src="img_avatar1.png" alt="Card image">
-  <div class="card-body">
-    <h4 class="card-title">John Doe</h4>
-    <p class="card-text">Some example text.</p>
-    <a href="#" class="btn btn-primary">See Profile</a>
-  </div>
-</div> -->
-
-
-<!-- <div class="card">
-  <div class="card-body">
-    <h4 class="card-title">Card title</h4>
-    <p class="card-text">Some example text. Some example text.</p>
-    <a href="#" class="card-link">Card link</a>
-    <a href="#" class="card-link">Another link</a>
-  </div>
-</div> -->
