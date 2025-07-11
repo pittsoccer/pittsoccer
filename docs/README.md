@@ -12,14 +12,16 @@ I'm all about coding software and building PCs
 * 🧠  I'm learning HTML, CSS, Javascript, jQuery, & Bootstrap
 
 <!-- Profile Visits -->
-### Profile Visits
+### Followers
 
 <!-- Follower Count -->
 <a href="https://www.github.com/pittsoccer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pittsoccer?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>
 
-<!-- Profile Views -->
-<a align="left"> <img src="https://komarev.com/ghpvc/?username=pittsoccer&label=Profile%20views&color=6366f1&slabelColor=000000" alt="pittsoccer" /> </a>
+<!-- Profile Views (removed) -->
+<!--
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=pittsoccer&label=Profile%20views&color=6366f1&slabelColor=000000" alt="pittsoccer" /></a>
+-->
 
 <!-- Skills -->
 ### Skills
