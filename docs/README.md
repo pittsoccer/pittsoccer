@@ -6,7 +6,7 @@ IT Enthusiast, The University of North Alabama
 
 I'm all about coding software and building PCs
 
-* 🌍  I'm based in Huntsville, AL
+* 🌎  I'm based in Huntsville, AL
 * ✉️  You can contact me at [pittsoccer101@gmail.com](mailto:pittsoccer101@gmail.com)
 * 🚀  I'm currently working on [my profile webpage](http://pittsoccer.github.io/pittsoccer/)
 * 🧠  I'm learning HTML, CSS, & JavaScript
