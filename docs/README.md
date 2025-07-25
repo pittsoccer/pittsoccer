@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Enthusiast, The University of North Alabama
 ----------------------------------------------
 
-I'm all about coding software and building PCs
+I'm all about software development and building PCs
 
 * 🌎  I'm based in Huntsville, AL
 * ✉️  You can contact me at [pittsoccer101@gmail.com](mailto:pittsoccer101@gmail.com)
