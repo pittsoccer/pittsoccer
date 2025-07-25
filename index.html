@@ -188,7 +188,7 @@
         const posts = await response.json();
 
         const blogContainer = document.getElementById('blog-entries');
-        blogContainer.innerHTML = ''; // clear existing posts
+        blogContainer.innerHTML = ''; // Clear existing posts
 
         posts.forEach(post => {
           const postDiv = document.createElement('div');
