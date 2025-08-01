@@ -97,7 +97,7 @@ src="https://img.shields.io/github/followers/pittsoccer?logo=github&style=for-th
 
 <!-- Commit Streak (removed)  -->
 
-<a href="http://www.github.com/pittsoccer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pittsoccer&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/pittsoccer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pittsoccer&stroke=ffffff&background=000000&ring=6366f1&fire=45bbff&currStreakNum=ffffff&currStreakLabel=45bbff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 <!-- Top Languages -->
