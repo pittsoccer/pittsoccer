@@ -9,7 +9,7 @@ I'm all about software development and building PCs
 * 🌎  I'm based in Huntsville, AL
 * ✉️  You can contact me at [pittsoccer101@gmail.com](mailto:pittsoccer101@gmail.com)
 * 🚀  I'm currently working on [my profile webpage](http://pittsoccer.github.io/pittsoccer/)
-* 🧠  I'm learning more about HTML, CSS, JavaScript & IT Infrastruture.
+* 🧠  I'm learning more about C++, HTML, CSS, JavaScript & IT Infrastruture.
 
 <!-- Profile Visits -->
 ### Followers
