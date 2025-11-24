@@ -25,57 +25,58 @@ src="https://img.shields.io/github/followers/pittsoccer?logo=github&style=for-th
 -->
 
 <!-- Skills -->
+<!-- https://icons8.com/ -->
 ### Skills
 
 <p align="left">
 <!-- C++ -->
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a>
+<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="36" height="36" alt="C++" title="C++"/></a>
 <!-- Java -->
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a>
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1" width="36" height="36" alt="Java" title="Java"/></a>
 <!-- Javascript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
+<img src="https://img.icons8.com/color/48/javascript--v1.png" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
 <!-- Python -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
+<img src="https://img.icons8.com/color/48/python--v1.png" width="36" height="36" alt="Python" title="Python"/></a>
 <!-- Visual Studio Code -->
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019" width="36" height="36" alt="VS Code" title="VS Code"/></a>
 <!-- Jquery -->
 <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" title="JQuery"/></a>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" width="36" height="36" alt="JQuery" title="JQuery"/></a>
 <!-- Bootstrap -->
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap"/></a>
+<img src="https://img.icons8.com/color/48/bootstrap--v2.png" width="36" height="36" alt="Bootstrap" title="Bootstrap"/></a>
 <!-- HTML5 -->
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a>
+<img src="https://img.icons8.com/color/48/html-5--v1.png" width="36" height="36" alt="HTML5" title="HTML5"/></a>
 <!-- CSS3 -->
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a>
+<img src="https://img.icons8.com/fluency/48/css3.png" width="36" height="36" alt="CSS3" title="CSS3"/></a>
 <!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a>
+<img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" width="36" height="36" alt="MySQL" title="MySQL"/></a>
 <!-- Photoshop -->
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" title="Photoshop"/></a>
+<img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" width="36" height="36" alt="Photoshop" title="Photoshop"/></a>
 <!-- Blender -->
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" title="Blender"/></a>
+<img src="https://img.icons8.com/fluency/48/blender-3d.png" width="36" height="36" alt="Blender" title="Blender"/></a>
 <!-- Raspberry Pi -->
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" title="Raspberry Pi"/></a>
+<img src="https://img.icons8.com/color/48/raspberry-pi.png" width="36" height="36" alt="Raspberry Pi" title="Raspberry Pi"/></a>
 <!-- Wondershare Filmora -->
 <a href="https://filmora.wondershare.com/" target="_blank" rel="noreferrer">
-<img src="https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-square.svg" width="36" height="36" alt="Wondershare Filmora" title="Wondershare Filmora"/></a>
+<img src="https://img.icons8.com/fluency/48/filmora.png" width="36" height="36" alt="Wondershare Filmora" title="Wondershare Filmora"/></a>
 <!-- Wallpaper Engine-->
 <a href="https://www.wallpaperengine.io/en" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/512/wallpaper-engine.png" width="36" height="36" alt="Wallpaper Engine" title="Wallpaper Engine"/></a>
+<img src="https://img.icons8.com/color/48/wallpaper-engine.png" width="36" height="36" alt="Wallpaper Engine" title="Wallpaper Engine"/></a>
 <!-- Microsoft Windows -->
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" width="36" height="36" alt="Microsoft Windows" title="Microsoft Windows"/></a>
+<img src="https://img.icons8.com/color/48/windows-10.png" width="36" height="36" alt="Microsoft Windows" title="Microsoft Windows"/></a>
 </p>
 
 <!-- Socials -->
@@ -84,13 +85,13 @@ src="https://img.shields.io/github/followers/pittsoccer?logo=github&style=for-th
 <p align="left">
 <!-- Github -->
 <a href="https://www.github.com/pittsoccer" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/ios-filled/50/228BE6/github.png" width="32" height="32" alt="Github" title="Github" /></a>
+<img src="https://img.icons8.com/fluency/48/github.png" width="36" height="36" alt="Github" title="Github" /></a>
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/bryce-pittman/" target="_blank" rel="noreferrer">
-<img src="images/linkedin.png" width="32" height="32" alt="LinkedIn" title="LinkedIn" /></a>
+<img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36" alt="LinkedIn" title="LinkedIn" /></a>
 <!-- Discord -->
 <a href="https://discord.com/users/1407733680465514536" target="_blank" rel="noreferrer">
-<img src="images/discord.png" width="32" height="32" alt="Discord" title="Discord" /></a>
+<img src="https://img.icons8.com/color/48/discord-logo.png" width="36" height="36" alt="Discord" title="Discord" /></a>
 </p>
 
 <!-- GitHub Stats -->
