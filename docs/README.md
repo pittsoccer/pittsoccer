@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/pittsoccer?logo=github&style=for-th
 <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="36" height="36" alt="C++" title="C++"/></a>
 <!-- Java -->
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1" width="36" height="36" alt="Java" title="Java"/></a>
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="36" height="36" alt="Java" title="Java"/></a>
 <!-- Javascript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/color/48/javascript--v1.png" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
@@ -43,7 +43,7 @@ src="https://img.shields.io/github/followers/pittsoccer?logo=github&style=for-th
 <img src="https://img.icons8.com/color/48/python--v1.png" width="36" height="36" alt="Python" title="Python"/></a>
 <!-- Visual Studio Code -->
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019" width="36" height="36" alt="VS Code" title="VS Code"/></a>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="36" height="36" alt="VS Code" title="VS Code"/></a>
 <!-- Jquery -->
 <a href="https://jquery.com/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" width="36" height="36" alt="JQuery" title="JQuery"/></a>
@@ -77,6 +77,15 @@ src="https://img.shields.io/github/followers/pittsoccer?logo=github&style=for-th
 <!-- Microsoft Windows -->
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/color/48/windows-10.png" width="36" height="36" alt="Microsoft Windows" title="Microsoft Windows"/></a>
+<!-- Microsoft Word -->
+<a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/fluency/48/microsoft-word-2025.png" width="36" height="36" alt="Microsoft Word" title="Microsoft Word"/></a>
+<!-- Microsoft PowerPoint -->
+<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/microsoft-powerpoint-2025.png" width="36" height="36" alt="Microsoft PowerPoint" title="Microsoft PowerPoint"/></a>
+<!-- Microsoft Excel -->
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/fluency/48/microsoft-excel-2025.png" width="36" height="36" alt="Microsoft Excel" title="Microsoft Excel"/></a>
 </p>
 
 <!-- Socials -->
