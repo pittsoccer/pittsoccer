@@ -84,7 +84,7 @@ src="https://img.shields.io/github/followers/pittsoccer?logo=github&style=for-th
 <p align="left">
 <!-- Github -->
 <a href="https://www.github.com/pittsoccer" target="_blank" rel="noreferrer">
-<img src="images/github.png" width="32" height="32" alt="Github" title="Github" /></a>
+<img src="https://img.icons8.com/ios-filled/50/228BE6/github.png" width="32" height="32" alt="Github" title="Github" /></a>
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/bryce-pittman/" target="_blank" rel="noreferrer">
 <img src="images/linkedin.png" width="32" height="32" alt="LinkedIn" title="LinkedIn" /></a>
