@@ -11,12 +11,13 @@ I'm all about software development and building PCs
 * 🚀  I'm currently working on [my profile webpage](http://pittsoccer.github.io/pittsoccer/)
 * 🧠  I'm learning more about C++ & IT Infrastruture
 
-<!-- Profile Visits -->
-### Followers
+<!-- Follower Count (removed)  -->
+<!-- ### Followers -->
 
-<!-- Follower Count -->
+<!--
 <a href="https://www.github.com/pittsoccer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pittsoccer?logo=github&style=for-the-badge&color=7477FF&labelColor=000000" /></a>
+-->
 
 <!-- Profile Views (removed) -->
 <!--
@@ -83,13 +84,13 @@ src="https://img.shields.io/github/followers/pittsoccer?logo=github&style=for-th
 <p align="left">
 <!-- Github -->
 <a href="https://www.github.com/pittsoccer" target="_blank" rel="noreferrer">
-<img src="images/github.png" width="32" height="32" alt="Github" title="Github" /></a>
+<img src="images/github.png" width="36" height="36" alt="Github" title="Github" /></a>
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/bryce-pittman/" target="_blank" rel="noreferrer">
-<img src="images/linkedin.png" width="32" height="32" alt="LinkedIn" title="LinkedIn" /></a>
+<img src="images/linkedin.png" width="36" height="36" alt="LinkedIn" title="LinkedIn" /></a>
 <!-- Discord -->
 <a href="https://discord.com/users/1407733680465514536" target="_blank" rel="noreferrer">
-<img src="images/discord.png" width="32" height="32" alt="Discord" title="Discord" /></a>
+<img src="images/discord.png" width="36" height="36" alt="Discord" title="Discord" /></a>
 </p>
 
 <!-- GitHub Stats -->
