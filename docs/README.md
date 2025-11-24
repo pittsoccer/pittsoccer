@@ -59,6 +59,9 @@ src="https://img.shields.io/github/followers/pittsoccer?logo=github&style=for-th
 <!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" width="36" height="36" alt="MySQL" title="MySQL"/></a>
+</p>
+
+<p align="left">
 <!-- Photoshop -->
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" width="36" height="36" alt="Photoshop" title="Photoshop"/></a>
