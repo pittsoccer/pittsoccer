@@ -86,6 +86,9 @@ src="https://img.shields.io/github/followers/pittsoccer?logo=github&style=for-th
 <!-- Microsoft Excel -->
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/fluency/48/microsoft-excel-2025.png" width="36" height="36" alt="Microsoft Excel" title="Microsoft Excel"/></a>
+<!-- Google Cloud -->
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" width="36" height="36" alt="Google Cloud" title="Google Cloud"/></a>
 </p>
 
 <!-- Socials -->
