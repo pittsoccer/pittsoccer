@@ -110,7 +110,7 @@ src="https://img.shields.io/github/followers/pittsoccer?logo=github&style=for-th
 ### My GitHub Stats
 
 <!-- Stats Card -->
-<a href="http://www.github.com/pittsoccer"><img src="https://github-readme-stats.vercel.app/api?username=pittsoccer&show_icons=true&hide=&count_private=true&title_color=7477FF&text_color=ffffff&icon_color=7477FF&bg_color=000000&hide_border=true&show_icons=true" alt="pittsoccer's GitHub stats" /></a>
+<a href="http://www.github.com/pittsoccer"><img src="https://github-readme-stats.vercel.app/api?username=pittsoccer&show_icons=true&hide=&count_private=true&title_color=7477FF&text_color=ffffff&icon_color=7477FF&bg_color=000000&hide_border=true&show_icons=true" alt="GitHub Stats" /></a>
 
 <!-- Commit Streak (removed) -->
 <!--
